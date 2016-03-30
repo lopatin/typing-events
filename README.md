@@ -1,4 +1,4 @@
-typingevents.js
+typingevents.js (not supported anymore, use underscore debounce or something similar instead)
 ===============
 
 Implementing a chat system, or an auto-complete search feature? You will probably need to know when your user has started typing a phrase and when they have stopped. Add this library to your code and the browser will fire `typingstarted` and `typingstopped` events on `document`.
